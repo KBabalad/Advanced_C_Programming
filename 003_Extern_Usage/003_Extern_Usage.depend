@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1609191354 source:b:\online courses\adv c course\003_extern_usage\extern_001.c
+	<stdio.h>
+	"extern_002.h"
+
+1609184855 b:\online courses\adv c course\003_extern_usage\extern_002.c
+	<stdio.h>
+
+1609184855 source:b:\online courses\adv c course\003_extern_usage\extern_002.c
+	<stdio.h>
+
+1609191202 b:\online courses\adv c course\003_extern_usage\extern_002.h
+	<stdio.h>
+

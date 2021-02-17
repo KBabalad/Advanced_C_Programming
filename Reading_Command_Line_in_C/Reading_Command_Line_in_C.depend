@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1609165816 source:b:\online courses\adv c course\reading_command_line_in_c\cmd_line_check.c
+	<stdio.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1609796163 source:b:\online courses\adv c course\pointer_math\ampersand_01.c
+	<stdio.h>
+	<stdint.h>
+
+1609799265 source:b:\online courses\adv c course\pointer_math\asterisk_01.c
+	<stdio.h>
+	<stdlib.h>
+
+1609801704 source:b:\online courses\adv c course\pointer_math\reverse_string.c
+	<stdio.h>
+	<stdint.h>
+
+1609802310 source:b:\online courses\adv c course\pointer_math\increment_pointer.c
+	<stdio.h>
+	<stdint.h>
+

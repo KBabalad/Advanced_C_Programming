@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609200338 source:b:\online courses\adv c course\code_challenge_sort_array_bs\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1609246241 source:b:\online courses\adv c course\code_challenge_sort_array_bs\test_sorting.c
+	<stdio.h>
+	<stdlib.h>
+
